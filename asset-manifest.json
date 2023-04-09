@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/login-with-metamask-demo/static/css/main.8879a577.chunk.css",
+    "main.js": "/login-with-metamask-demo/static/js/main.100b7a10.chunk.js",
+    "main.js.map": "/login-with-metamask-demo/static/js/main.100b7a10.chunk.js.map",
+    "runtime-main.js": "/login-with-metamask-demo/static/js/runtime-main.3ad0df32.js",
+    "runtime-main.js.map": "/login-with-metamask-demo/static/js/runtime-main.3ad0df32.js.map",
+    "static/js/2.3a4d86fb.chunk.js": "/login-with-metamask-demo/static/js/2.3a4d86fb.chunk.js",
+    "static/js/2.3a4d86fb.chunk.js.map": "/login-with-metamask-demo/static/js/2.3a4d86fb.chunk.js.map",
+    "index.html": "/login-with-metamask-demo/index.html",
+    "static/css/main.8879a577.chunk.css.map": "/login-with-metamask-demo/static/css/main.8879a577.chunk.css.map",
+    "static/js/2.3a4d86fb.chunk.js.LICENSE.txt": "/login-with-metamask-demo/static/js/2.3a4d86fb.chunk.js.LICENSE.txt",
+    "static/media/LOGO.04d436a4.png": "/login-with-metamask-demo/static/media/LOGO.04d436a4.png",
+    "static/media/LOGOTR.ef347dd5.png": "/login-with-metamask-demo/static/media/LOGOTR.ef347dd5.png",
+    "static/media/Login.css": "/login-with-metamask-demo/static/media/bg.87797f4b.jpg",
+    "static/media/pdfpic.c54fca22.jpeg": "/login-with-metamask-demo/static/media/pdfpic.c54fca22.jpeg",
+    "static/media/Profile.css": "/login-with-metamask-demo/static/media/profile.2a8831ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad0df32.js",
+    "static/js/2.3a4d86fb.chunk.js",
+    "static/css/main.8879a577.chunk.css",
+    "static/js/main.100b7a10.chunk.js"
+  ]
+}
